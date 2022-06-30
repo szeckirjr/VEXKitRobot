@@ -6,8 +6,8 @@ The goal of this project was to design, build, and program a robot using a VEX R
 
 * ```VEXKit RobotC code.c```: RobotC code imported into the VEX Controller that reads the sensor inputs and makes the robot behave in the required way.
 
-*```Finite State Machine```: Finite State Machine for the code included, with a better visualization on how the robot works.
+* ```Finite State Machine```: Finite State Machine for the code included, with a better visualization on how the robot works.
 
-*```Robot Design```: Picture of the design of the robot.
+* ```Robot Design```: Picture of the design of the robot.
 
-*```Robot in action```: Video of the robot in action.
+* ```Robot in action```: Video of the robot in action.
